@@ -32,5 +32,5 @@ We:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/olympic-medal-prediction.git
+   https://github.com/lakshan64/olympic-medal-prediction.git
    cd olympic-medal-prediction
